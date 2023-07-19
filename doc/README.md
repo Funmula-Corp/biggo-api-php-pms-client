@@ -62,7 +62,7 @@ $api->getReportList('<Platform ID>')
 Save report as file or get file content.
 `$api->getReport('<Platform ID>', '<Report ID>', 'json'|'csv'|'excel', [Options])`
 
-* Return `string | array`
+* Return `string`
 
 ```php
 $api->getReport('<Platform ID>', '<Report ID>', 'json')
