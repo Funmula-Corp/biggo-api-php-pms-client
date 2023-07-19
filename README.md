@@ -1,7 +1,7 @@
-# BigGo PMS API Javascript Client
+# BigGo PMS API PHP Client
 
 
-BigGo PMS API Javascript Client is a API written in Javascript.
+BigGo PMS API PHP Client is a API written in Javascript.
 
 short future:
 
