@@ -1,0 +1,23 @@
+{
+    "name": "funmula/biggo-api-php-pms-client",
+    "description": "BigGo API PMS PHP Client is a API written in PHP",
+    "type": "library",
+    "require": {
+        "php": "7.4"
+    },
+    "require-dev": {
+        "php": "7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Funmula\\BiggoApiPhpPmsClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benson",
+            "email": "benson@funmula.com"
+        }
+    ]
+}
